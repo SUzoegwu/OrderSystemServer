@@ -141,7 +141,7 @@ Save the id that gets returned
 
 Navigate to Postman
 
-Application will be running on IP: 127.0.0.1 on Port 5000 (127.0.0.1:5000)
+Application will be running on IP: 127.0.0.1 on Port 5000 (127.0.0.1:5000) or 0.0.0.0:5000
 
 For Params:
 
